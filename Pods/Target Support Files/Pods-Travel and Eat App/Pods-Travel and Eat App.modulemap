@@ -1,0 +1,6 @@
+framework module Pods_Travel_and_Eat_App {
+  umbrella header "Pods-Travel and Eat App-umbrella.h"
+
+  export *
+  module * { export * }
+}
